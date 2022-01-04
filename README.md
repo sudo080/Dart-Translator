@@ -1,1 +1,1 @@
-A simple command-line application.
+A simple translator made in the dart language with the translator package
